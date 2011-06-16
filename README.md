@@ -1,4 +1,5 @@
 # phpdumper - improved PHP variable dumper with web interface
+(moved from http://code.google.com/p/phpdumper/)
 
 ### What is it?
 Simple variables dumper for easy debugging, instead of standard function var_dump(), analog of FirePHP.
